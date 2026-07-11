@@ -1,1 +1,1 @@
-print("Hello_from_b&w")
+print("Hello everyone from black")
