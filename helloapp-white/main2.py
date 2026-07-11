@@ -1,4 +1,7 @@
-print("Hello from White")
+def say_hello():
+    print("hello from white")
+if __name__ == "__main__":
+    say_hello()
 import math
 from turtle import *
 def h1(m):
